@@ -2,5 +2,3 @@ User-agent: *
 Disallow: /script.js/
 Disallow: /style.css/
 Disallow: /README.md/
-Disallow: /privacypolicy.html/
-Disallow: /supportus.html/
